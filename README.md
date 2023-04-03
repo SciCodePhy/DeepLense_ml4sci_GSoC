@@ -9,4 +9,5 @@ Task1 includes:
 2. Non pre-trained models: MLP (one hidden layer NN), CNN (LeNet), Simplified ReNet (with two residual blocks)
 
 Specific task includes:
+
 Vision Transformer (ViT), Swin Transformer
