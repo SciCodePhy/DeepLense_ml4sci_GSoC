@@ -16,6 +16,6 @@ DeepLense_Specific_Task_Transformers.ipynb: Vision Transformer (ViT), Swin Trans
 
 DeepLense_Specific_Task_Transformers_Bonus.ipynb: I introduce a DIY version of ViT, and discuss the post-norm and pre-norm. I also implement the MLP-mixer model.
 
-1. MLP-mixer has a really good performance!
+1. MLP-mixer has a really good performance! And the computaional efficiency is really good.
 2. The pre-norm ViT learn nothing
 3. The post-norm ViT can learn something, but the efficiency is poor.
